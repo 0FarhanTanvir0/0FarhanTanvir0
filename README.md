@@ -1,4 +1,4 @@
-# Hi there, I'm [Farhan_Tanvir_Fahim] 👋
+# Hi there, I'm Farhan_Tanvir_Fahim👋
 
 ### 🚀 Network Engineer & Systems Administrator in Training
 
