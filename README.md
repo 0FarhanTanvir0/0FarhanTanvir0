@@ -39,16 +39,16 @@ Passionate about network design, infrastructure security, and Linux systems admi
 
 ## 🧪 Labs & Projects
 
-- 📁 **[CCNA-Lab-Topologies](https://github.com/your-username/CCNA-Lab-Topologies):** Packet Tracer and EVE-NG topology files covering multi-area OSPF, NAT, and VLAN segmentation.
-- 📁 **[MikroTik-RouterOS-Configs](https://github.com/your-username/MikroTik-RouterOS-Configs):** Ready-to-use RouterOS scripts for firewall hardening, load balancing, and automated backups.
-- 📁 **[RHCSA-Study-Notes-Automation](https://github.com/your-username/RHCSA-Study-Notes-Automation):** RHEL administration commands cheat sheet, LVM setup guides, and quick maintenance Bash scripts.
+- 📁 **[CCNA-Lab-Topologies](https://github.com/@0FarhanTanvir0/CCNA-Lab-Topologies):** Packet Tracer and EVE-NG topology files covering multi-area OSPF, NAT, and VLAN segmentation.
+- 📁 **[MikroTik-RouterOS-Configs](https://github.com/@0FarhanTanvir0/MikroTik-RouterOS-Configs):** Ready-to-use RouterOS scripts for firewall hardening, load balancing, and automated backups.
+- 📁 **[RHCSA-Study-Notes-Automation](https://github.com/@0FarhanTanvir0/RHCSA-Study-Notes-Automation):** RHEL administration commands cheat sheet, LVM setup guides, and quick maintenance Bash scripts.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=-@0FarhanTanvir0&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=@0FarhanTanvir0&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak" height="150"/>
 </p>
 
