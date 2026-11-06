@@ -48,8 +48,8 @@ Passionate about network design, infrastructure security, and Linux systems admi
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0FarhanTanvir0&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=@0FarhanTanvir0&theme=dark" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OFarhanTanvir0&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OFarhanTanvir0&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
