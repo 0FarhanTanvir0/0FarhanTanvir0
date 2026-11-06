@@ -55,7 +55,7 @@ Passionate about network design, infrastructure security, and Linux systems admi
 ---
 
 ## 📫 Connect With Me
- - 📧 **Email:** [fahim4747125@gmail.com](mailto:alphaz06@gmail.com)
+ - 📧 **Email:** [ftf.fahim.o1@gmail.com](mailto:ftf.fahim.o1@gmail.com)
 
 ---
 
